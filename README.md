@@ -368,4 +368,3 @@ kubectl logs pod-name --previous
 
 This setup is **production-ready**, **security-auditable**, and **used by modern cloud-native teams**.
 
-Mastering this early gives a **significant DevOps career advantage**.
